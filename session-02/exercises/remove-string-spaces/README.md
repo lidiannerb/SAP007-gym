@@ -21,3 +21,11 @@ noSpace('8aaaaa dddd r     ') ➞ '8aaaaaddddr'
 > - As strings passadas consistirão apenas em letras e espaços.
 
 ↩️ [Voltar](../../README.md)
+
+Resposta: 
+![image](https://user-images.githubusercontent.com/83047245/174204773-30b9294b-eda2-4c16-9ff2-091c85888d68.png)
+
+O método split() divide uma String em uma lista ordenada de substrings, coloca essas substrings em um array e retorna o array. A divisão é feita procurando um padrão, onde o padrão é fornecido como o primeiro parâmetro na chamada do método.
+
+Como juntar um array em uma string JavaScript?
+Para juntar os elementos do array, usamos o método arr. join(). Este método é usado para juntar os elementos de um array em uma string. Os elementos da string serão separados por um separador especificado e seu valor padrão é uma vírgula (,).
