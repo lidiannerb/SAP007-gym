@@ -22,3 +22,6 @@ Resultados: [false, 1, 1, 2, 1, 3, 'a', 0, 0];
 > - Não se esqueça de retornar o array com os zeros no final!
 
 ↩️ [Voltar](../../README.md)
+
+Resposta:
+![image](https://user-images.githubusercontent.com/83047245/174217590-4bf748af-4702-4e25-8b91-dc2b46219083.png)
