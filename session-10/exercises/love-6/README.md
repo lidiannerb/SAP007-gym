@@ -26,3 +26,6 @@ Nota: a função `Math.abs(num)` calcula o valor absoluto de um número.
 ```
 
 ↩️ [Voltar](../../README.md)
+
+Resposta:
+![image](https://user-images.githubusercontent.com/83047245/174354587-6583ffd3-ba8f-446c-ab65-7c4aacebd7ee.png)
