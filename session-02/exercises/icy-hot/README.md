@@ -17,4 +17,7 @@ outra superior a 100.
   icyHot(2, 120) → false
 ```
 
-↩️ [Voltar](../../README.md)
+Resposta:
+
+![image](https://user-images.githubusercontent.com/83047245/174204028-5264d7e8-b5c0-4992-bf88-b5cc5c09e05c.png)
+
