@@ -19,4 +19,4 @@ ser de igual comprimento, mas pode estar vazio (comprimento 0).
     comboString('aaa', 'b') → "baaab"
 ```
 
-↩️ [Voltar](../../README.md)
+![image](https://user-images.githubusercontent.com/83047245/174202944-d3d0ab23-481f-4b8a-92b9-36c8f14e9489.png)
