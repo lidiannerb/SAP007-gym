@@ -18,3 +18,6 @@ elementos em ordem inversa, de modo que `[1, 2, 3]` se torne `[3, 2, 1]`.
 ```
 
 ↩️ [Voltar](../../README.md)
+Resposta
+
+![image](https://user-images.githubusercontent.com/83047245/174211525-e795267e-1066-432f-9b39-9c6f98f95f57.png)
