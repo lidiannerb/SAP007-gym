@@ -34,3 +34,9 @@ Explicação: subtraindo de [1, 2, 2, 2, 3] o valor corresponde [2] o resultado 
 >   ser removido do `b`
 
 ↩️ [Voltar](../../README.md)
+
+Resposta:
+
+![image](https://user-images.githubusercontent.com/83047245/174218956-96dfc160-b565-4289-9e65-1222fd5a4a2e.png)
+
+O "banana" foi colocado para entender que ali pode ser uma palavra qualquer, pois apenas referencia os itens do array.
